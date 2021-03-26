@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.MissedCallsTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-03-26T03:57:03" hostname="DESKTOP-KJU887L" time="0.012">
+  <properties/>
+  <testcase name="removeMissed()" classname="ru.netology.MissedCallsTest" time="0.009"/>
+  <testcase name="addMissedTestNull()" classname="ru.netology.MissedCallsTest" time="0.002"/>
+  <testcase name="addMissedTestAdd()" classname="ru.netology.MissedCallsTest" time="0.001"/>
+  <system-out><![CDATA[РџСЂРѕРїСѓС‰РµРЅС‹Рµ РІС‹Р·РѕРІС‹ РѕС‡РёС‰РµРЅС‹
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
